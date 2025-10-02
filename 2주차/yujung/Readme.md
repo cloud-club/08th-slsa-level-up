@@ -1,4 +1,4 @@
-### cosign verify 실행 결과\
+### cosign verify 실행 결과
 ```bash
 # cosign verify 실행 결과
 Verification for ghcr.io/jud1thdev/slsa-study-practice:sha-8600debd6cba98a61b35535036eca1fb3f6c1b93 --
