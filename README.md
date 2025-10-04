@@ -29,6 +29,15 @@
       <br />
       <sub>스터디 리더</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/KimYe-Ji">
+        <img src="https://avatars.githubusercontent.com/u/58850411?v=4" width="100px;" alt="97tkddnjs"/>
+        <br />
+        <sub><b>김예지</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
