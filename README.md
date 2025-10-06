@@ -40,7 +40,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/callme-waffle">
-        <img src="https://avatars.githubusercontent.com/u/58850411?v=4" width="100px;" alt="callme-waffle"/>
+        <img src="https://avatars.githubusercontent.com/u/58645920?v=4" width="100px;" alt="callme-waffle"/>
         <br />
         <sub><b>김화균</b></sub>
       </a>
