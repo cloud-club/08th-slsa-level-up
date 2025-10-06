@@ -38,6 +38,15 @@
       <br />
       <sub>스터디원</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/callme-waffle">
+        <img src="https://avatars.githubusercontent.com/u/58850411?v=4" width="100px;" alt="callme-waffle"/>
+        <br />
+        <sub><b>김화균</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
