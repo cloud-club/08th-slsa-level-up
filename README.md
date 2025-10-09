@@ -56,6 +56,16 @@
       <br />
       <sub>스터디원</sub>
     </td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mjttong">
+        <img src="https://avatars.githubusercontent.com/u/145860909?v=4" width="100px;" alt="mjttong"/>
+        <br />
+        <sub><b>권민정</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
