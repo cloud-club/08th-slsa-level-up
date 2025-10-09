@@ -47,6 +47,15 @@
       <br />
       <sub>스터디원</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/back1ash">
+        <img src="https://avatars.githubusercontent.com/u/53644611?v=4" width="100px;" alt="back1ash"/>
+        <br />
+        <sub><b>이해준</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
