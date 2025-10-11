@@ -66,6 +66,15 @@
       <br />
       <sub>스터디원</sub>
     </td>
+      <td align="center">
+      <a href="https://github.com/ssoxong">
+        <img src="https://avatars.githubusercontent.com/u/112956015?v=4" width="100px;" alt="ssoxong"/>
+        <br />
+        <sub><b>이소현</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
