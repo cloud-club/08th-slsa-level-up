@@ -77,7 +77,7 @@
     </td>
       <td align="center">
       <a href="https://github.com/gaeul3303">
-        <img src="https://avatars.githubusercontent.com/u/112956015?v=4" width="100px;" alt="gaeul3303"/>
+        <img src="https://avatars.githubusercontent.com/u/84903260?s=400&v=4" width="100px;" alt="gaeul3303"/>
         <br />
         <sub><b>홍가을</b></sub>
       </a>
