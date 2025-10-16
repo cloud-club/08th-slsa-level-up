@@ -102,6 +102,15 @@
         <br />
         <sub>스터디원</sub>
       </td>
+    <td align="center">
+        <a href="https://github.com/hodu26">
+          <img src="https://avatars.githubusercontent.com/u/69331491?v=4" width="100px;" alt="hodu26"/>
+          <br />
+          <sub><b>허완</b></sub>
+        </a>
+        <br />
+        <sub>스터디원</sub>
+      </td>
   </tr>
 </table>
 
