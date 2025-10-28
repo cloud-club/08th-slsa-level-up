@@ -27,7 +27,7 @@
         <sub><b>김재현</b></sub>
       </a>
       <br />
-      <sub>스터디 리더</sub>
+      <sub>스터디리더</sub>
     </td>
     <td align="center">
       <a href="https://github.com/KimYe-Ji">
